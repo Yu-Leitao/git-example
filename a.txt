@@ -1,3 +1,4 @@
 hello one
 gpg sign local
 password2
+password3
