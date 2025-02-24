@@ -2,6 +2,5 @@ hello one
 gpg sign local
 password2
 password3
-password4
 keyring
-pull request
+123
